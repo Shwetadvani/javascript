@@ -1,1 +1,21 @@
 # javascript
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Demo</h2>
+
+
+<h1>Heading Tag.</h1>
+<p id="demo1">Not creating a Id of this tag</p>
+<span id="demo3">JavaScript</span>
+<h1 id="demo"></h1>
+
+<script>
+document.getElementById("demo").innerHTML = 'hello Welcome to the javascript';
+document.getElementById("demo1").style.color = "magenta";
+document.getElementById("demo3").style.color = "cyan";
+</script>
+
+</body>
+</html>
