@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h2>JavaScript Demo</h2>
+<h2>JavaScript</h2>
 
 
 <h1>Heading Tag.</h1>
